@@ -6,13 +6,12 @@
 
 'To do: create algoritm pad to min len
 
-'The name of the file My Password Provider settings
-
 GenPassword "", False, True
 
 Sub GenPassword(strPhrase, NoMes, boolUseSpecial)'(Optional strPhrase As String = "", Optional NoMes As Boolean = False, Optional boolUseSpecial = True) As String
 'On Error GoTo Err_
 'GenPassword = ""
+'The name of the file My Password Provider settings
 Dim strPPSFileName 'As String
     strPPSFileName = "MySettings.pps"
 Dim SettingsUL 'As String
