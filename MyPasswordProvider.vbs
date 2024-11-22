@@ -6,6 +6,7 @@
 'Change main settings and save this text as file.vbs
 
 'To do: create algoritm pad to min len
+'To do: now bad algoritm for uppercase
 
 GenPassword "", False, True
 
