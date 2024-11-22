@@ -1,4 +1,4 @@
-'Code vbs
+'Code VBScript
 'My Password Provider Example
 'autor: alex;
 
