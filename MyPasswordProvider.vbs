@@ -3,7 +3,7 @@
 'A sequence of a set of English characters is randomly generated to match the standard 255 characters. It is saved to the user's directory and then used to convert input phrases.
 'autor: alex;
 
-'Change main settings ang save this text as file.vbs
+'Change main settings and save this text as file.vbs
 
 'To do: create algoritm pad to min len
 
