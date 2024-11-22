@@ -14,7 +14,7 @@ Sub GenPassword(strPhrase, NoMes, boolUseSpecial)'(Optional strPhrase As String 
 'GenPassword = ""
 'The name of the file My Password Provider settings
 Dim strPPSFileName 'As String
-    strPPSFileName = "MySettings.pps"
+    strPPSFileName = "MySettings-2024-11-22.pps"
 Dim SettingsUL 'As String
     SettingsUL = "237" 'Numbers of char in UPPER Case
 
