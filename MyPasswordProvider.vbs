@@ -128,5 +128,3 @@ Dim strAllCharacters
 '    MsgBox Err.Description, Err.Source
 '    GoTo Exit_
 End Sub
-
-'pK0?o0%omqpu4
