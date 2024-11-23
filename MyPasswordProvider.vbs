@@ -14,6 +14,7 @@
 'Next
 'Output:d9Wo2d7819*b?o?8?%wb207~*wu5p%w#2?
 'dnNlIGJlc3BvbGV6bm8
+';0)
 
 Sub GenPassword(strPhrase, NoMes, boolUseSpecial)'(Optional strPhrase As String = "", Optional NoMes As Boolean = False, Optional boolUseSpecial = True) As String
 'On Error GoTo Err_
