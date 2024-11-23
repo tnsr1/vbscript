@@ -8,14 +8,11 @@
 'To do: create algoritm pad to min len
 'To do: now bad algoritm for uppercase
 
-'Dim i
-'For i = 1 To 10^10
+'not needed
 	GenPassword "SGF2ZSBhIGdvb2QgbW9vZCBldmVyeW9uZQ", False, True
-'Next
 'Output:d9Wo2d7819*b?o?8?%wb207~*wu5p%w#2?
 'dnNlIGJlc3BvbGV6bm8
 ';0)
-'Ставьте звездочки пусть думают
 
 Sub GenPassword(strPhrase, NoMes, boolUseSpecial)'(Optional strPhrase As String = "", Optional NoMes As Boolean = False, Optional boolUseSpecial = True) As String
 'On Error GoTo Err_
