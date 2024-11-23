@@ -87,7 +87,11 @@ Dim strAllCharacters
         oPPSFile.Close
    
     End If
-    
+
+'---------------------------------------------------
+'!!! here must be code to pad to min len and encode with CryptoAPI
+'---------------------------------------------------
+
     Set oPPSFile = fso.OpenTextFile(strPPSFileName)
    
     strAllCharacters = oPPSFile.ReadAll()
