@@ -24,7 +24,8 @@ Sub GenPassword(strPhrase, NoMes, boolUseSpecial)'(Optional strPhrase As String 
 Dim strPPSFileName 'As String
     strPPSFileName = "MySettings-2024-11-22.pps"
 Dim SettingsUL 'As String
-    SettingsUL = "237" 'Numbers of char in UPPER Case
+	'This is nice bug-feature
+	SettingsUL = "112377" 'Numbers of char in UPPER Case
 
 'The set of characters
 Dim strSimpleCharacters
