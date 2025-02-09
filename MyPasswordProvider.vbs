@@ -23,6 +23,7 @@ Dim strPPSFileName 'As String
 Dim SettingsUL 'As String
 	'This is nice bug-feature
 	'На самом деле позиции для верхнего регистра должны быть случайными и постоянными для каждого пароля
+	'и их надо дописывать в strPPSFileName
 	SettingsUL = "112377" 'Numbers of char in UPPER Case
 
 'The set of characters
